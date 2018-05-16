@@ -1,0 +1,19 @@
+{
+  "name": "generator-app",
+  "version": "1.0.0",
+  "description": "demo-generator",
+  "files": [
+    "generators"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "author": "VivekRajyaguru",
+  "license": "ISC",
+  "dependencies": {
+    "yeoman-generator": "^2.0.5"
+  },
+  "devDependencies": {
+    "lodash": "^4.17.10"
+  }
+}
